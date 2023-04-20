@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "g:\\Meu Drive\\Personal\\Study\\typescript-from-zero-to-hero",
+			"problemMatcher": [],
+			"label": "Live Preview: Executar Servidor"
+		}
+	]
+}
