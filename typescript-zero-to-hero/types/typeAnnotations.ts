@@ -38,7 +38,8 @@ let concluido: boolean = false;
 
 if (concluido) {
     console.log("Concluída com sucesso");
-} else {
+} else { 
     console.log("Tarefa pendente")
 }
+
 
