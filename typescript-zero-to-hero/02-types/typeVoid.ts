@@ -9,7 +9,7 @@
 // console.log(olaMundoArrow);
 
 // function logError(errorMessage: string) {
-//     console.log(errorMessage);    
+//     console.log(errorMessage);
 //     //return errorMessage;
 // }
 // console.log(logError('Confira os dados'));
@@ -19,9 +19,9 @@
 // logError(testeLog);
 
 
-let variavelExemploVoid: void;
-variavelExemploVoid = 1;
-variavelExemploVoid = null;
-variavelExemploVoid = undefined;
+// let variavelExemploVoid: void;
+// variavelExemploVoid = 1;
+// variavelExemploVoid = null;
+// variavelExemploVoid = undefined;
 
-console.log(variavelExemploVoid);
+// console.log(variavelExemploVoid);
